@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
- *
- * @authors Smith (423261989@qq.com)
+ * VimeoLib
+ * @authors radishj<423261989@qq.com>
  * @date    2015-08-12 21:03:49
  * @version $Id$
  */
